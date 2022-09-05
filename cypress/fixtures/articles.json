@@ -1,0 +1,62 @@
+{
+    "articles": [
+        {
+            "slug": "slug1",
+            "title": "title1",
+            "description": "description1",
+            "body": "body1",
+            "tagList": [
+                "tag1"
+            ],
+            "createdAt": "2021-11-24T12:11:08.212Z",
+            "updatedAt": "2021-11-24T12:11:08.212Z",
+            "favorited": false,
+            "favoritesCount": 3441,
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png",
+                "following": false
+            }
+        },
+        {
+            "slug": "slug2",
+            "title": "title2",
+            "description": "description2",
+            "body": "body2",
+            "tagList": [
+                "tag2"
+            ],
+            "createdAt": "2021-11-24T12:11:07.952Z",
+            "updatedAt": "2021-11-24T12:11:07.952Z",
+            "favorited": false,
+            "favoritesCount": 2017,
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png",
+                "following": false
+            }
+        },
+        {
+            "slug": "slug3",
+            "title": "title3",
+            "description": "description3",
+            "body": "body3",
+            "tagList": [
+                "tag3"
+            ],
+            "createdAt": "2021-11-24T12:11:07.557Z",
+            "updatedAt": "2021-11-24T12:11:07.557Z",
+            "favorited": false,
+            "favoritesCount": 1428,
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 3
+}

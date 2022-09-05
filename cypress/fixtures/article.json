@@ -1,0 +1,6 @@
+{
+  "title": "Cypress Article Title 001",
+  "description": "Testing Cypress Post Article",
+  "body": "Posting an article via Cypress. Getting article contents from a fixture.",
+  "tag": "cytest"
+}
